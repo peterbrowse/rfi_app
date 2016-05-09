@@ -5,14 +5,14 @@
         jar="/Users/peter.browse/Documents/dev/webview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="52e7bd4f12690d9efec75ed2a2f7e9218947dc4a">
+        sha1="989b7a9b1f50f1df564c535cf4cfa363669c8b6c">
         <dex dex="/Users/peter.browse/Documents/dev/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a6cc345512772903d3750c16a8045d91f14d4740/classes.dex" />
     </item>
     <item
         jar="/Users/peter.browse/Documents/dev/webview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="fb6c724d8d612186ca3c258c5c9dae84a7f1f407">
+        sha1="87fe0c00d37d859ae9fa2fe2db41a56a7118b5b5">
         <dex dex="/Users/peter.browse/Documents/dev/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86abaa0c1bb2fb2db43b59ee31b6dbdb4934ce83/classes.dex" />
     </item>
 
